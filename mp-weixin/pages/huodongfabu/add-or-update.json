@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#669999",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "活动发布",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

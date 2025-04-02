@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#669999",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "爱心捐物展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
